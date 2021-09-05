@@ -13,6 +13,7 @@ Using JavaScript and HTML, you’ll modify the code in your index.html file to c
 
 ![Deliverable_1.PNG](https://github.com/Bionicbabes/UFOs/blob/main/static/images/Deliverable_1.PNG)
 
+![Deliverable_1_index.PNG](https://github.com/Bionicbabes/UFOs/blob/main/static/images/Deliverable_1_index.PNG)
 
 
 
