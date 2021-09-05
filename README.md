@@ -1,6 +1,6 @@
 -------------------------------
 
-## **UFOs**
+# **UFOs**
 
 -------------------------------
 
@@ -24,7 +24,7 @@ Using JavaScript and HTML, you’ll modify the code in your index.html file to c
 
 -------------------------------
 
-We have set up the webpage in a way that the search result will take effect after a value has been changed within the text box field.  To do this you click within the search category text box that you desire and using the example (all searches are case sensitive) you input the filtering data.  You may notice that when you enter the data that it does on modifiy the data table right away.  You must click outside the text box from which you entered the data for the value to be inputed as a search value and to pull the data. 
+We have set up the webpage in a way that the search result will take effect after a value has been changed within the text box field.  To do this you click within the search category text box that you desire and using the example (all searches are case sensitive) you input the filtering data.  You may notice that when you enter the data that it does on modifiy the data table right away.  You must click outside the text box from which you entered the data for the value to be inputed as a search value and to pull the data.  You can also press the "Enter" key on your key board after entering in the value into the category text box and this will return a modified data table.
 
 
 
