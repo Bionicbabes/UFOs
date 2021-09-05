@@ -20,7 +20,7 @@ Using JavaScript and HTML, you’ll modify the code in your index.html file to c
 
 -------------------------------
 
-## **Results:**
+# **Results:**
 
 -------------------------------
 
@@ -30,12 +30,16 @@ Using JavaScript and HTML, you’ll modify the code in your index.html file to c
 
 -------------------------------
 
-## **Summary:**
+# **Summary:**
 
 -------------------------------
 
-# **Drawbacks**
+## **Drawbacks**
 
 - This is a very simple webpage but it has lots of limitations.  The webpage is local and can only be used if the user has all associated app.js, data.js, style.css, and index.html files on their computer.  This webpage could also be a lot more user friendly, the user really has to understand how to work the webpage which in somewhat intuitive but there could be some improvements to help the user better navigate the webpage. 
 
-# **Improvements**
+## **Improvements**
+
+- Two improvements to make this more user friendly would be to add a more buttons.  After entering in all the search requirement you could add a button at the bottom that would use all the inputs and perform the search.  Also after the button was clicked all the category fields would be deleted for a new entry.  Another button I would put in place is a clear all search results and return the original data set.  This is a little more intuitive using the buttons this way.
+
+- Another improvement that i would make is to add try and expect code within the function.  If the user does not enter in the correct matching data into the text fields then a null result is show with and empty data table.  You can set the error message so they know how they have inputted the data wrong.
